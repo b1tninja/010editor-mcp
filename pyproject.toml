@@ -1,7 +1,7 @@
 [project]
 name = "010editor-mcp"
-version = "0.1.0"
-description = "MCP server for SweetScape 010 Editor — run Binary Templates (.bt) and Scripts (.1sc) headlessly"
+version = "0.2.0"
+description = "MCP server for SweetScape 010 Editor — CLI + script-bridge automation (no plugin API exists)"
 readme = "README.md"
 requires-python = ">=3.11"
 license = "MIT"
